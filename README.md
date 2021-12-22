@@ -1,4 +1,5 @@
-# Flask Web App Tutorial
+# Flask web app
+This app implements Python's intermediaries while making practice for login, server and storage elements.
 
 ## Setup & Installtion
 
